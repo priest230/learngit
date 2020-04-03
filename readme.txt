@@ -7,3 +7,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 No
 I'm somewhere here.
+Create a new branch is quick AND simple.
